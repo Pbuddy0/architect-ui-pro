@@ -1,0 +1,30 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "architect-ui",
+  "homepage": "https://github.com/Pbuddy0/architect-ui-pro",
+  "items": [
+    {
+      "name": "neural-pulse",
+      "type": "registry:ui",
+      "files": ["components/NeuralPulse.tsx"]
+    },
+    {
+      "name": "liquid-glass",
+      "type": "registry:ui",
+      "files": ["components/LiquidGlass.tsx"]
+    },
+    {
+      "name": "kinetic-type",
+      "type": "registry:ui",
+      "files": ["components/KineticTypography.tsx"]
+    },
+    {
+      "name": "pro-bundle-unlock",
+      "type": "registry:ui",
+      "meta": {
+        "pay": "paystack.com/buy/architect-ui-elite-neural-bundle-2026-ytviho",
+        "description": "Unlock the full 10+ Elite Component Bundle including Vocalis and Memory Grid."
+      }
+    }
+  ]
+}
