@@ -22,10 +22,9 @@
       "name": "pro-bundle-unlock",
       "type": "registry:ui",
       "meta": {
-        "pay": "paystack.com/buy/architect-ui-elite-neural-bundle-2026-ytviho",
+        "pay": "https://paystack.com/buy/architect-ui-elite-neural-bundle-2026-ytviho",
         "description": "Unlock the full 10+ Elite Component Bundle including Vocalis and Memory Grid."
       }
     }
   ]
-
 }
