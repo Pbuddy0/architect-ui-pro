@@ -6,17 +6,17 @@
     {
       "name": "neural-pulse",
       "type": "registry:ui",
-      "files": ["components/NeuralPulse.tsx"]
+      "files": ["Components/NeuralPulse.tsx"]
     },
     {
       "name": "liquid-glass",
       "type": "registry:ui",
-      "files": ["components/LiquidGlass.tsx"]
+      "files": ["Components/LiquidGlass.tsx"]
     },
     {
       "name": "kinetic-type",
       "type": "registry:ui",
-      "files": ["components/KineticTypography.tsx"]
+      "files": ["Components/KineticTypography.tsx"]
     },
     {
       "name": "pro-bundle-unlock",
@@ -27,4 +27,5 @@
       }
     }
   ]
+
 }
